@@ -1,0 +1,6 @@
+{
+  "name": "천안박물관 시설 대관 원스톱 안내",
+  "description": "천안박물관 공연장 및 아카이브 세미나실 대관 목적 확인, 시설 안내, 사용료 계산기, 신청 절차 및 전화 문의 원스톱 안내 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
